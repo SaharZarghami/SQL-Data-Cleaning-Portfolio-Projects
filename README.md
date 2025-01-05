@@ -1,7 +1,7 @@
 # SQL-Data-Cleaning-Portfolio-Projects
 ## Description:
 
-The goal of this project is to clean the dataset "layoffs" for the Exploratory Data Analysis.
+The goal of this project is to clean the datasets for the Exploratory Data Analysis.
 
 ## Steps:
 
